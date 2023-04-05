@@ -1,6 +1,9 @@
 - 👋 Hi, I'm Jonathan, I can consider myself a person who tries to improve and innovate in differentiating life habits in order to acquire as much knowledge as possible. In social relations I act in a positive but calculating way to obtain the best possible result.
 - 👀 I’m interested in sharing a work and personal environment which can help me enhance my skills so that I can grow fully as a person.
 - 🌱 I’m currently learning about the Computer Engineering career at the Technological Institute of Costa Rica, which I can consider that the learning has been substantial
+
+- 💼 I am currently working at Wind River in the role of DevOps Engineer (Intern) and have gained varied knowledge on topics such as Kubernetes, Helm, Jenkins, Lens, Vault, Jira and Docker, creation of pipelines for process automation
+
 - 💼 I have collaborated as Course Assistant at the Technological Institute of Costa Rica. The courses I have attended are: Data Structure, Compilers and Interpreters, Retrieval of Information Texts, Introduction to Programming and Programming Workshop
 
 - 💼 Additionally, I have collaborated in the Scholarship Office of the Technological Institute of Costa Rica, which consisted of collaborating in the organization of documents on sensitive information of the students, creation and revision of the student activities of the Technological Institute of Costa Rica.
